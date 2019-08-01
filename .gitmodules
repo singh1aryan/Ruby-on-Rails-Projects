@@ -1,3 +1,6 @@
 [submodule "Todo"]
 	path = Todo
 	url = https://github.com/aryansingh12/Todo-Web.git
+[submodule "Blog"]
+	path = Blog
+	url = https://github.com/aryansingh12/Blog.git
