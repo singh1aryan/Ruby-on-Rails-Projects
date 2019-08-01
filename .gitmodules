@@ -4,3 +4,6 @@
 [submodule "Blog"]
 	path = Blog
 	url = https://github.com/aryansingh12/Blog.git
+[submodule "Car_pool"]
+	path = Car_pool
+	url = https://github.com/aryansingh12/Car_Pool.git
