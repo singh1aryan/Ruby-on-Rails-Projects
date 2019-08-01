@@ -7,3 +7,6 @@
 [submodule "Car_pool"]
 	path = Car_pool
 	url = https://github.com/aryansingh12/Car_Pool.git
+[submodule "rails-gems"]
+	path = rails-gems
+	url = https://github.com/aryansingh12/Rails-Gems.git
